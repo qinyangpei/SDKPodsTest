@@ -1,6 +1,0 @@
-framework module ArcVehicleEngine {
-  umbrella header "ArcVehicleEngine.h"
-
-  export *
-  module * { export * }
-}

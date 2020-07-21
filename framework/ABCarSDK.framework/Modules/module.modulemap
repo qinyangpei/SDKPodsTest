@@ -1,6 +1,0 @@
-framework module ABCarSDK {
-  umbrella header "ABCarSDK.h"
-
-  export *
-  module * { export * }
-}
